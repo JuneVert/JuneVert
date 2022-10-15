@@ -33,7 +33,7 @@ padding: 60px 40px;
     background: linear-gradient(130deg, #331f19, #b47a5e);
     margin: auto;
     border-radius: 50%;
-    background-size: 200% 200%;
+    //background-size: 200% 200%;
     animation: animated-gradient 2s linear infinite;
 }
 
